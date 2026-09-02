@@ -21,6 +21,8 @@ An automated system that uses Selenium web automation to send a query to the Ble
 
 Good luck, and may the Force be with you!
 
+**NOTE:** The Blender bot's phone number is purposefully being gatekept and is not included in the code. I take no pleasure in doing this, but it is a pretty exclusive bot, so if you know the right people, then well, my repo can help you.
+
 ## AI disclosure
 Even though I wrote a lot of the code myself, Gemini, ChatGPT, and Claude helped out with various difficult parts of this script, especially during the initial planning and dry-run troubleshooting. The WhatsApp document injection monkeypatching was done by Claude, and I would have never been able to figure it out on my own because I haven't studied JavaScript yet to be very honest.
 
