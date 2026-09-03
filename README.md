@@ -5,6 +5,9 @@ An automated system that uses Selenium web automation to send a query to the Ble
   <img src="Blender_Bot_WA.png" alt="WhatsApp screenshot of a bot with an anime girl profile picture">
 </p>
 
+## Disclaimer
+Do NOT misuse this repo to mass-spam referees begging for job referrals. Only use it as a last resort when you can't find a job. I am not responsible for any negative consequences arising out of your misuse of this repo or the contents therein.
+
 ## How it works
 
 **Step 1:** Send a message to the Blender bot's DMs. The message should say `/company` and nothing more
