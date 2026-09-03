@@ -1,9 +1,6 @@
 # Blender-Bot-AutoReferral
 An automated system that uses Selenium web automation to send a query to the Blender WhatsApp bot for referrals in your dream company, and then automagically sends all your referees a greeting along with your resumé.
 
-<p align="center">
-  <img src="Blender_Bot_WA.png" alt="WhatsApp screenshot of a bot with an anime girl profile picture">
-</p>
 
 ## Disclaimer
 Do NOT misuse this repo to mass-spam referees begging for job referrals. Only use it as a last resort when you can't find a job. I am not responsible for any negative consequences arising out of your misuse of this repo or the contents therein.
